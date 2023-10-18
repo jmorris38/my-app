@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.400cb6cf.css",
+    "main.js": "/my-app/static/js/main.d3275a27.js",
+    "static/js/787.d3befce1.chunk.js": "/my-app/static/js/787.d3befce1.chunk.js",
+    "static/media/Sweet-Pea-Flowers.png": "/my-app/static/media/Sweet-Pea-Flowers.0fa379e4c9d6c155f012.png",
+    "static/media/HomeBrew.png": "/my-app/static/media/HomeBrew.9a3065b69b6b418dc2a7.png",
+    "static/media/Twilight_Ristorante.png": "/my-app/static/media/Twilight_Ristorante.f5b976e32680da017119.png",
+    "static/media/Summer_Punch.png": "/my-app/static/media/Summer_Punch.c7da771fb6c126146be3.png",
+    "static/media/Weather_Dash.png": "/my-app/static/media/Weather_Dash.fb8dfe9ddd2d1911fd44.png",
+    "static/media/Sphere.png": "/my-app/static/media/Sphere.ac26b22491da9c538736.png",
+    "static/media/NoteTaker.png": "/my-app/static/media/NoteTaker.a02f46f0add6517fa071.png",
+    "static/media/Profile_Pic.png": "/my-app/static/media/Profile_Pic.5c813aa28223a596a9ac.png",
+    "static/media/Justin_Morris_1.doc": "/my-app/static/media/Justin_Morris_1.d6ee3f6daa643a55683b.doc",
+    "index.html": "/my-app/index.html",
+    "main.400cb6cf.css.map": "/my-app/static/css/main.400cb6cf.css.map",
+    "main.d3275a27.js.map": "/my-app/static/js/main.d3275a27.js.map",
+    "787.d3befce1.chunk.js.map": "/my-app/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.400cb6cf.css",
+    "static/js/main.d3275a27.js"
+  ]
+}
